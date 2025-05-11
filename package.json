@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "deploy-netlify",
+  "version": "1.0.0",
+  "description": "\"# netlify-deploy\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufmsabeh/netlify-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufmsabeh/netlify-deploy/issues"
+  },
+  "homepage": "https://github.com/yusufmsabeh/netlify-deploy#readme"
+}
